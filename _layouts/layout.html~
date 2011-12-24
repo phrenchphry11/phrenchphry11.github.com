@@ -8,11 +8,10 @@
   </head>
   <body>
     <header>
-      <h1><a href="/">Holly's Blog That Should Have Happened Four Months Ago</a></h1>
+      <h1><a href="/">Jekyll Base</a></h1>
     </header>
     <section>
       {{ content }}
     </section>
   </body>
 </html>
-
