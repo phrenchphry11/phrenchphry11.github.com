@@ -5,7 +5,7 @@ title: title
 
 
 
-<h2>Latest entries</h2>
+<h2>Latest entries:</h2>
 {% for post in site.posts limit:4 %}
 <h3>
     <a href="{{ post.url }}">{{ post.title }}</a>
@@ -15,4 +15,6 @@ title: title
     {{ post.excerpt }}
 </p>
 {% endfor %}
+
+
 
