@@ -123,7 +123,16 @@
 
 	img.scale-with-grid {
 		max-width: 100%;
-		height: auto; }
+		height: auto; 
+        padding: 6px; 
+border-top: 1px solid #ddd; 
+border-left: 1px solid #ddd; 
+border-bottom: 1px solid #c0c0c0; 
+border-right: 1px solid #c0c0c0; 
+display:block; 
+margin-left:auto; 
+margin-right:auto; 
+        }
 
 
 /* #Buttons
@@ -332,5 +341,14 @@
 	.remove-bottom { margin-bottom: 0 !important; }
 	.half-bottom { margin-bottom: 10px !important; }
 	.add-bottom { margin-bottom: 20px !important; }
+    
+    
+
+#banner
+{
+width: 1000px; 
+background-image: /images/banner.JPG;
+background-repeat: no-repeat;
+}
 
 
