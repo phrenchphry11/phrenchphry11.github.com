@@ -59,6 +59,9 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+    .headlinks {
+text-align: center
+}
 
 /* #Typography
 ================================================== */
@@ -68,12 +71,14 @@
 		font-weight: normal; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
     h1 { text-align: center }
-	h1 { font-size: 55px; line-height: 60px; margin-bottom: 20px;}
+    h2 { text-align: center }
+    h5 { text-align: center }
+	h1 { font-size: 72px; line-height: 60px; margin-bottom: 20px;}
 	h2 { font-size: 35px; line-height: 40px; margin-bottom: 10px; }
 	h3 { font-size: 28px; line-height: 34px; margin-bottom: 8px; }
 	h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
 	h5 { font-size: 17px; line-height: 24px; }
-	h6 { font-size: 14px; line-height: 21px; }
+	h6 { font-size: 17px; line-height: 21px; }
 	.subheader { color: #777; }
 
 	p { margin: 0 0 20px 0; }
@@ -344,11 +349,15 @@ margin-right:auto;
     
     
 
-#banner
-{
-width: 1000px; 
-background-image: /images/banner.JPG;
-background-repeat: no-repeat;
+#banner {
+width: 960px;
+margin:0 auto 10px;
+background: #fff /images/header.jpg no-repeat top right;
+max-width: 100%;
+height: auto; 
+display:block; 
+margin-left:auto; 
+margin-right:auto; 
 }
 
 

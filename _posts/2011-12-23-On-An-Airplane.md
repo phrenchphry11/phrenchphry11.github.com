@@ -1,6 +1,7 @@
 ---
 layout: post
 title: On An Airplane
+comments: true
 excerpt: Hello world.  This blog should have started four months ago, but alas.  Instead I waited until I was on an airplane headed back to good ol' Amurika and reflecting upon these past months while enjoying an Oreo Milka Chocolate Bar. 
 ---
 

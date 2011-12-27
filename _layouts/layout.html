@@ -8,7 +8,7 @@
 	<!-- Basic Page Needs
   ================================================== -->
 	<meta charset="utf-8">
-	<title>Holly's Blog That Should Have Happened Four Months Ago</title>
+	<title>Post Facto</title>
 	<meta name="description" content="">
 	<meta name="author" content="">
 	<!--[if lt IE 9]>
@@ -34,7 +34,7 @@
 
     <!-- RSS
 	================================================== -->
-    <link rel="alternate" type="application/atom+xml" title="Holly's Blog That Should Have Happend Four Months Ago - Atom" href="http://phrenchphry11.github.com/atom.xml" />
+    <link rel="alternate" type="application/atom+xml" title="Post Facto" href="http://phrenchphry11.github.com/atom.xml" />
 
 
 </head>
@@ -45,21 +45,56 @@
 	<!-- Primary Page Layout
 	================================================== -->
 
-	<!-- Delete everything in this .container and get started on your own site! -->
 
 	<div class="container">
 	<body>
-	  <img id="banner" src="/images/banner.jpg" alt="" />
+	  <img id="banner" src="/images/banner.jpg" />
+<div class="container">
+			<h1 class="remove-bottom" style="margin-top: 40px"><a href="/" style="text-decoration: none">Post Facto </a></h1>
+			<h5>The Blog That Should Have Happened Four
+	Months Ago</h5>
+  	  <nav>
+       <ul>
+	 <div class="headlinks">
+	 <div class="one-third column">
+            <h4><a href="/about/about.html" style="text-decoration: none">About Me</a></h4>
+	   </div>
+	   <div class="one-third column">
+            <h4><a href="/projects/" style="text-decoration: none">Research</a></h4>
+	     </div>
+	     <div class="one-third column">
+            <h4><a href="/photos/" style="text-decoration: none">Photography</a></h4>
+	     </div>
+            </div>
+        </ul>
+    </nav>
+			<hr />
 
-	  
-    <header>
-      <h1><a href="/" style="text-decoration: none">Holly's Blog That Should Have Happened Four
-  Months Ago </a>
-</h1>
-    </header>
+    
     <section>
       {{ content }}
-    </section>
+	  
+   {% if page.comments %} 
+
+	  <div id="disqus_thread"></div>
+	  <script type="text/javascript">
+	  var disqus_shortname = 'postfacto'; // required: replace example with your forum shortname
+	  //var disqus_developer = 1; // This turns developer mode on
+
+	  (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+	  </script>
+	  <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+	  <a href="http://disqus.com" class="dsq-brlink">blog comments
+        powered by <span class="logo-disqus">Disqus</span></a>
+	  {% endif %}
+
+</section>
+
+	  
   </body>	
 	</div><!-- container -->
 
