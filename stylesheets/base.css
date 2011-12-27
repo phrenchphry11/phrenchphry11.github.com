@@ -59,6 +59,9 @@
 		-webkit-text-size-adjust: 100%;
  }
 
+    .headlinks {
+text-align: center
+}
 
 /* #Typography
 ================================================== */
@@ -68,6 +71,7 @@
 		font-weight: normal; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
     h1 { text-align: center }
+    h2 { text-align: center }
     h5 { text-align: center }
 	h1 { font-size: 72px; line-height: 60px; margin-bottom: 20px;}
 	h2 { font-size: 35px; line-height: 40px; margin-bottom: 10px; }
@@ -345,11 +349,15 @@ margin-right:auto;
     
     
 
-#banner
-{
-width: 1000px; 
-background-image: /images/banner.JPG;
-background-repeat: no-repeat;
+#banner {
+width: 960px;
+margin:0 auto 10px;
+background: #fff /images/header.jpg no-repeat top right;
+max-width: 100%;
+height: auto; 
+display:block; 
+margin-left:auto; 
+margin-right:auto; 
 }
 
 
