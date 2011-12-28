@@ -125,6 +125,7 @@ text-align: center
 
 /* #Images
 ================================================== */
+    #thumbnail {margin-bottom: 20px}
 
 	img.scale-with-grid {
 		max-width: 100%;

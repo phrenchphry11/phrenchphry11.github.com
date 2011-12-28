@@ -259,16 +259,11 @@ Lightbox.prototype = {
         imgPreloader.onload = (function(){
             this.lightboxImage.src = this.imageArray[this.activeImage][0];
             /*Bug Fixed by Andy Scott*/
-            //this.lightboxImage.width = imgPreloader.width;
-            //this.lightboxImage.height = imgPreloader.height;
-            if (imgPreloader.width > 850)
-                imgPreloader.width = 800;
-
-            if (imgPreloader.height > 620)
-                imgPreloader.height = 600;
-
+            this.lightboxImage.width = imgPreloader.width;
+            this.lightboxImage.height = imgPreloader.height;
             /*End of Bug Fix*/
             this.resizeImageContainer(imgPreloader.width, imgPreloader.height);
+        }).bind(this);
         imgPreloader.src = this.imageArray[this.activeImage][0];
     },
 
