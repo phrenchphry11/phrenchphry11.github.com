@@ -3,20 +3,26 @@ layout: layout
 title: title
 ---
 
+<div class="two-thirds column">
 
 {% for post in site.posts limit:4 %}
+
 <h3>
-    <a href="{{ post.url }}">{{ post.title }}</a>
+
+<a href="{{ post.url }}">{{ post.title }}</a>
+
 </h3>
 <span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
 <p>
     {{ post.excerpt }}
 </p>
+  
+
 {% endfor %}
 
 <ul>
   {% for post in site.posts %}
-  {% if forloop.index > 5 %}
+  {% if forloop.index > 4 %}
   <li>
   Older Posts:
     <a href="{{ post.url }}" title="{{ post.title }}">
@@ -31,3 +37,23 @@ title: title
   {% endif %}
   {% endfor %}
 </ul>
+</div>
+
+
+<div class="one-third column">
+  <h3>
+External Links:
+</br>
+  <a href= "https://twitter.com/#!/phrenchphry11"><img
+  src="/images/twitter_32.png" target="_blank"></a>
+   <a href= "http://www.facebook.com/frenchh"><img
+  src="/images/facebook_32.png" target="_blank"></a> 
+  <a
+  href="http://www.yelp.com/user_details?userid=77AmnJIp11Q6yktux1dcgQ"><img
+  src="/images/yelp_32.png" target="_blank"></a>
+</h3>
+
+  <h3>
+  Search:
+  </h3>
+  </div>

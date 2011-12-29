@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Merry Christmas
-excerpt:  <html> <img src="/images/christmas.jpg" width="400"> </html>
+excerpt:  <html> <img src="/images/christmas.jpg" width="300"> </html>
 comments: true
 ---
 
