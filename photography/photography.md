@@ -11,7 +11,7 @@ Shadowbox.init();
 
 </script>
 
-<div class="one-third column">
+<div class="three columns">
 
 <a href="/images/gellertHill.jpg" rel="lightbox[travel]" title="View of Budapest from Gellert Hill"><img id="thumbnail" class="scale-with-grid" src="/images/gellertHillThumbnail.jpg"></a>
 
@@ -24,7 +24,7 @@ Shadowbox.init();
 
 </div>
 
-<div class="one-third column">
+<div class="three columns">
 
 <a href="/images/tokaj.jpg" rel="lightbox[travel]" title="Weekend at Tokaj, Hungary's Wine Region"><img id="thumbnail" class="scale-with-grid" src="/images/tokajThumbnail.jpg"></a>
 
@@ -36,7 +36,7 @@ Shadowbox.init();
 
 </div>
 
-<div class="one-third column">
+<div class="three columns">
 
 <a href="/images/californiaBeach.jpg" rel="lightbox[travel]" title="Malibu, California"><img id="thumbnail" class="scale-with-grid" src="/images/californiaBeachThumbnail.jpg"></a>
 

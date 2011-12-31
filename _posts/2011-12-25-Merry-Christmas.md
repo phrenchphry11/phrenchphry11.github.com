@@ -8,3 +8,4 @@ comments: true
 First day back in Southern California?  To the beach.... 
 
  <html> <img class="scale-with-grid" src="/images/christmas.jpg" width="600"> </html>
+Photo credit to <a href="http://www.flickr.com/alexkrafcik">Alex Krafcik</a>.
