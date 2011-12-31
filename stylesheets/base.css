@@ -54,9 +54,9 @@
 /* #Basic Styles
 ================================================== */
 	body {
-		background: #E8E8E8;
-		font: 18px/21px;
-        line-height: 22px;
+		/*background: #E8E8E8;*/
+		font: 18px/20px;
+        line-height: 21px;
 font-family: 'Actor', sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
