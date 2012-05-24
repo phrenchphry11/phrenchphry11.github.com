@@ -14,9 +14,10 @@ title: Home
 </h3>
 <span>{{ post.date | date: '%B' }} {{ post.date | date: '%e' }}, {{ post.date | date: '%Y' }}</span>
 <p>
-    {{ post.excerpt }}
+    {{ post.excerpt | markdownify }}
+    <span class="more"><a href="{{ post.url }}">More...</a></span>
 </p>
-  
+
 
 {% endfor %}
 
@@ -41,5 +42,5 @@ title: Home
 
 
 
-      
+
   </div>
