@@ -2,9 +2,7 @@
 layout: post
 title: Budapest, Round II
 comments: true
-excerpt: Oh look.  A blog.  I forgot about this.  
-
-Anyway, I feel like the time is ripe for a blog resurrection.  Today, I leave for Europe, my second trip in approximately five months.  (Actually, now that I think about it, this may even be five months to the day.  I believe I left Budapest on December 23, 2011.  So scratch the "approximately".)  I don't know how much ability I'll have to stay in contact with everyone since I don't know what my phone will be like in Europeland, so hopefully this will be at least some small way to stay in contact with you, O Dear Reader. 
+excerpt: Oh look.  A blog.  I forgot about this.  Anyway, I feel like the time is ripe for a blog resurrection.  Today, I leave for Europe, my second trip in approximately five months.  (Actually, now that I think about it, this may even be five months to the day.  I believe I left Budapest on December 23, 2011.  So scratch the "approximately".)  I don't know how much ability I'll have to stay in contact with everyone since I don't know what my phone will be like in Europeland, so hopefully this will be at least some small way to stay in contact with you, O Dear Reader. 
 ---
 
 Oh look.  A blog.  I forgot about this.  
