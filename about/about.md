@@ -4,7 +4,7 @@ title: About Me
 ---
 <img class="scale-with-grid" src="/images/budapest.jpeg" width="200">
 </br>
-I'm Holly French, a rising sneior computer science major at <a href="http://www.carleton.edu">Carleton College</a>, a small liberal arts college in Northfield, Minnesota.  I also spent some time my Junior year in Budapest, Hungary, where I spent four months studying math and computer science at <a href="http://www.ait-budapest.com">AIT-Budapest</a>.  Though beyond the academic experience, I had a lot of fun traveling, eating too much food (see my picture), sitting at cafes, going to concerts, doing hackathons, and subway surfing.  But the reason for this blog?  I'm returning to Budapest to work at a wonderful company called <a href="http://www.prezi.com">Prezi</a>.  
+I'm Holly French, a rising senior computer science major at <a href="http://www.carleton.edu">Carleton College</a>, a small liberal arts college in Northfield, Minnesota.  I also spent some time my Junior year in Budapest, Hungary, where I spent four months studying math and computer science at <a href="http://www.ait-budapest.com">AIT-Budapest</a>.  Though beyond the academic experience, I had a lot of fun traveling, eating too much food (see my picture), sitting at cafes, going to concerts, doing hackathons, and subway surfing.  But the reason for this blog?  I'm returning to Budapest to work at a wonderful company called <a href="http://www.prezi.com">Prezi</a>.  
 
 When I'm not computering (which admittedly takes up a lot of my time), I like to read, play the piano, do ballet, attempt crosswords, and play bridge (often at <a href="http://www.bridgebase.com">Bridge Base Online</a>). 
 
