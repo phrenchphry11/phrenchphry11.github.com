@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What I Have Learned At Prezi
-excerpt: It's been a few weeks now since I've been here in Budapest, so I've had a lot of marination time to adjust and acclimate to my new surroundings (well, re-adjust and re-acclimate, I suppose).  Though so much of Budapest seems the same since my last visit, the biggest change from my time in Budapest last year is my new job at <a href="http://www.prezi.com/">Prezi</a>.
+excerpt: It's been a few weeks now since I've been here in Budapest, so I've had a lot of <a href="http://upload.wikimedia.org/wikipedia/commons/b/bb/Chicken_thighs_in_marinade.jpg">marination</a> time to adjust and acclimate to my new surroundings (well, re-adjust and re-acclimate, I suppose).  Though so much of Budapest seems the same since my last visit, the biggest change from my time in Budapest last year is my new job at <a href="http://www.prezi.com/">Prezi</a>. 
 
 comments: true
 ---
