@@ -3,8 +3,6 @@ layout: post
 title: Dance in Hungary
 excerpt: This is sort of a digression from my usual computer-themed postings, but I feel like the amount of time I've spent going to dance shows in Hungary merits a blog post.  As some of you may know, at one point in my life what I really wanted was to be a professional dancer.  Probably fortunately for me (since I don't think I would have made a great dancer), it didn't work out, and I ended up going to college, where I discovered the joys of computer science!  Nevertheless, dance has always remained really important to me, and I've followed dance pretty carefully, even despite quitting.  Thus, one of the things I love most about living in a big city is having access to such a wonderful and diverse performing arts scene, so I've really been able to experience a lot of art, music, and especially dance in Budapest. 
 
-<html> <img src="/images/opera2.jpg" width="300"> </html>
-
 comments: true
 ---
 
