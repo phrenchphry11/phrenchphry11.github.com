@@ -10,9 +10,9 @@ This is sort of a digression from my usual computer-themed postings, but I feel 
 
 The Hungarian Opera House is one of the nicest things in Budapest (in my opinion), so when my sister visited, we went to see a ballet, Anna Karenina, there.  I've never read the book, so I don't know a whole lot about the plotline other than that it involves a woman, a train, and love triangles, so the ballet was a bit hard to follow, but it was totally worth it to see a gigantic smoking train on the stage as well as the opera house itself:
 
-<img src="/images/opera1.jpeg" width="300">
+<img src="/images/opera1.jpeg" width="500">
 
-<img src="/images/opera2.jpeg" width="300">
+<img src="/images/opera2.jpeg" width="500">
 
 When I was in Hungary last time, I went to the ballet quite a lot, since it turns out that one of the coordinators of our school, Barbara, has a sister who is in the ballet compnay (and her parents too are very involved with the ballet scene in Budapest).  So, I was really thrilled when she called me this time to invite me to see Snow White and the Seven Dwarves at the Opera House!  It was a lovely ballet, and the music was great too - it was composed specifically for this production.  However, one thing I especially liked was trying to learn the Dwarves' names in Hungarian (in case any of you were wondering -- and you all should because this is awesome -- Dopey's Hungarian name is Kuka which literally translates to "Trash" in English).  The most exciting part of this trip to the ballet, however, was that I got to go backstage and meet some of the dancers and see their props, their costumes, the lighting, the trapdoors, and where they rehearse.  It was beautiful (and I kept waiting for the Phantom of the Opera to pop out of the rafters)!
 
