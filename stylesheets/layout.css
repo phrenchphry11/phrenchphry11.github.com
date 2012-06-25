@@ -16,6 +16,50 @@
 
 /* #Site Styles
 ================================================== */
+body {
+    /*background: #E8E8E8;*/
+    font: 18px/20px;
+    line-height: 24px;
+    font-family: 'Actor', sans-serif;
+}
+
+.headlinks {
+    text-align: center
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Patua One', cursive;
+    color: #181818;
+}
+
+h1 { text-align: center }
+h2 { text-align: center }
+h5 { text-align: center }
+h1 { font-size: 82px; line-height: 60px; margin-bottom: 20px;}
+h6 { font-size: 17px; line-height: 21px; }
+
+a, a:visited { color: #181818; text-decoration: underline; outline: 0; }
+
+/* #Images
+================================================== */
+#thumbnail {margin-bottom: 20px}
+
+img.scale-with-grid {
+    max-width: 100%;
+    height: auto;
+    padding: 6px;
+    border-top: 1px solid #ddd;
+    border-left: 1px solid #ddd;
+    border-bottom: 1px solid #c0c0c0;
+    border-right: 1px solid #c0c0c0;
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#banner {
+    background-color: #B8B8B8;
+}
 
 /* #Page Styles
 ================================================== */
