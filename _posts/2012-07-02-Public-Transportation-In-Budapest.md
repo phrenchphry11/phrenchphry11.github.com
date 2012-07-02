@@ -35,7 +35,7 @@ One thing that I particulary like about Budapest public transportation is the ar
 
 <a href="/sound/train.mp3">Train sound 1</a>
 
-<a href="/sound/train1.mp3">Train sound 2</a>
+<a href="/sound/train1.ogg">Train sound 2</a>
 
 However, the biggest news regarding Budapesti public transportation is the newest addition to their fleet of vehicles: BOATS!  As of July 1, boats are now available for public transport across the city!  So, Prezi organized a company trip to check out the new boats.  We ended up boarding a boat, riding it up the Danube, and arriving at a perfect outdoor bar/sandwich shop/beach hangout along the river.  The bar had a really interesting cherry beer on tap (which tastes really syrupy and not quite like beer but I highly recommend it!), and I even learned how to skip stones.  
 
