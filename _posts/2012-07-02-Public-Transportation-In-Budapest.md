@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Public Transportation In Budapest (Or, A Weekend Boat Excursion)
-excerpt: So about a week ago I made a goal to a friend here. I feel like I know the public transportation system like the back of my hand now, since I take the metro everyday.  I know the names of every single metro stop, and I have the schedules down reasonably well too.  However, this has caused a few holes in my education of the city of Budapest.  Since I'm always in the metros, despite hearing about all the metro stops from the cool female voice above on the intercom (in Hungarian), I actually know very little of what these metro stop locations look like above ground!  So, I made a pact to ride the metros and get off at every stop to look around (even if it's just for a few minutes) this week. 
+excerpt: So about a week ago I made a goal. I feel like I know the public transportation system like the back of my hand now, since I take the metro everyday.  I know the names of every single metro stop, and I have the schedules down reasonably well too.  However, this has caused a few holes in my education of the city of Budapest.  Since I'm always in the metros, despite hearing about all the metro stops from the cool female voice above on the intercom (in Hungarian), I actually know very little of what these metro stop locations look like above ground!  So, I made a pact to ride the metros and get off at every stop to look around (even if it's just for a few minutes) this week. 
 
 comments: true
 ---
