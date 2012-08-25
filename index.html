@@ -20,12 +20,11 @@ title: Home
 
 
 {% endfor %}
-
+Older Posts:
 <ul>
   {% for post in site.posts %}
   {% if forloop.index > 4 %}
   <li>
-  Older Posts:
     <a href="{{ post.url }}" title="{{ post.title }}">
       <span class="date">
         <span class="day">{{ post.date | date: '%d' }}</span>
