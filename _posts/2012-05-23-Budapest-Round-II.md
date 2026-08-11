@@ -18,7 +18,7 @@ Anyway, I feel like the time is ripe for a blog resurrection.  Today, I leave fo
 
 When I left Budapest in December, I definitely was set to return at some point in my life, since it's a place so associated with rich, meaningful memories in my mind.  Nevertheless, I didn't expect to be returning so soon.  I applied for an internship at Prezi (headquartered in Budapest) on sort of a whim, but I didn't expect to actually get accepted into the program, and also, I didn't foresee myself agreeing to go had I been accepted, since I would have to cut my term at Carleton short.  But here I am.  I'm leaving Carleton early, I had to bid goodbye to my friends who are graduating (that was sad), and now I am sitting in MSP mentally preparing myself to do computer things in Budapest.
 
-But these aren't just *any* computer things!  I'm thrilled about these computer things!  Prezi is such an ideal company, or at least that was what I decided when I first visited the Prezi HQ some months ago!  It's a smallish company that uses cool technology (in my favorite programming language, Python, I might add), but most importantly, it has a cool office and cool people who are not only good programmers, but good designers and creative thinkers. </br>
+But these aren't just *any* computer things!  I'm thrilled about these computer things!  Prezi is such an ideal company, or at least that was what I decided when I first visited the Prezi HQ some months ago!  It's a smallish company that uses cool technology (in my favorite programming language, Python, I might add), but most importantly, it has a cool office and cool people who are not only good programmers, but good designers and creative thinkers.
 
 Also, a magic fridge with an array of fruit juices.
 
