@@ -16,15 +16,15 @@ Public transportation is a feature here you simply can't miss when you're in Bud
 
 <ol>
 <li> The metros.  There are 3.  Yellow, Blue, and Red. 
-	<ol>
-	<li> As I mentioned before, the Yellow Line is a World Heritage Site, and it's the second oldest underground railway in the world.  It's cute and kinda slow.  But cute!  
+<ol>
+<li> As I mentioned before, the Yellow Line is a World Heritage Site, and it's the second oldest underground railway in the world.  It's cute and kinda slow.  But cute!  
 
-	<li> The Blue Line is the biggest - 21 stops.  I ride it to work everyday.
+<li> The Blue Line is the biggest - 21 stops.  I ride it to work everyday.
 
-	<li> The Red Line goes under the Danube and is the least explored by me, so I don't have much else to say about it.
+<li> The Red Line goes under the Danube and is the least explored by me, so I don't have much else to say about it.
 
-	<li> One of the most interesting things about these metros is that the trains themselves are so old that they still have their old USSR logos on them in Russian!  It's cool!
-	<img class="scale-with-grid" src="/images/ussr.jpeg" width="400">
+<li> One of the most interesting things about these metros is that the trains themselves are so old that they still have their old USSR logos on them in Russian!  It's cool!
+<img class="scale-with-grid" src="/images/ussr.jpeg" width="400">
 </ol>
 <li> The buses.  The buses are pretty straightforward, but they run all the time.  Pretty convenient, if you're into buses.
 <li> The HÉV.  I'm a huge fan of the HÉV.  I took it to school every day last time I was here, and it's this great green train that goes to the suburb-y areas of Budapest.
