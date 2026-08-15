@@ -5,10 +5,10 @@ layout: nil
 <feed xmlns="http://www.w3.org/2005/Atom">
  
  <title>Post Facto</title>
- <link href="http://phrenchphry11.github.com/atom.xml" rel="self"/>
- <link href="http://phrenchphry11.github.com/"/>
+ <link href="https://hollyafrench.com/atom.xml" rel="self"/>
+ <link href="https://hollyafrench.com/"/>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
- <id>http://phrenchphry11.github.com/</id>
+ <id>https://hollyafrench.com/</id>
  <author>
    <name>Holly French</name>
    <email>hollyafrench90@gmail.com</email>
@@ -17,9 +17,9 @@ layout: nil
  {% for post in site.posts %}
  <entry>
    <title>{{ post.title }}</title>
-   <link href="http://phrenchphry11.github.com{{ post.url }}"/>
+   <link href="https://hollyafrench.com{{ post.url }}"/>
    <updated>{{ post.date | date_to_xmlschema }}</updated>
-   <id>http://phrenchphry11.github.com{{ post.id }}</id>
+   <id>https://hollyafrench.com{{ post.id }}</id>
    <content type="html">{{ post.content | xml_escape }}</content>
  </entry>
  {% endfor %}
