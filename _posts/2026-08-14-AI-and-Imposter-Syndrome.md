@@ -18,7 +18,7 @@ Until AI coding hit the scene.
 
 For years, my history as a software engineer taught me that the harder the problem, the higher the value.  Struggling through problems was considered good, because we were doing hard work.  A few hours optimizing a db query?  Great.  Rabbitholing down AWS documentation?  A good use of time most certainly.
 
-But I remember the first time Claude was able to spot a database performance problem before I did: I felt that imposter syndrome coming back.  Was I even the author anymore?  How did it catch bugs before I did?  I submitted a bugfix, but felt more like this was Claude's success, not mine.  The Imposter Syndrome was back.  And I wasn't just comparing myself to engineers who had coded their entire lives, I was comparing myself to a robot that crawled the entire internet. But eventually, something changed. The AI bot that first ruined confidence as a coder became the thing that helped rebuild my confidence as a software engineer.
+But I remember the first time Claude was able to spot a database performance problem before I did: I felt that Imposter Syndrome coming back.  Was I even the author anymore?  How did it catch bugs before I did?  I submitted a bugfix, but felt more like this was Claude's success, not mine.  And I wasn't just comparing myself to engineers who had coded their entire lives, I was comparing myself to a robot that crawled the entire internet. But eventually, something changed. The AI bot that first ruined confidence as a coder became the thing that helped rebuild my confidence as a software engineer.
 
 
 ### How I learned to stop worrying and love the AI 
