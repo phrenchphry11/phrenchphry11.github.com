@@ -47,5 +47,5 @@ Maybe the best part of the new era of AI is that it's given me the chance to lea
 
 
 
-All that to say, in this era, I hope we come out of using AI coding tools feeling more confident, not more siloed.  For my imposter syndrome, it's helped me practice, rehearse, and refine so I'm more confident in what I'm doing. 
+All that to say, in this era, I hope we come out of using AI coding tools feeling more confident, not more siloed.  For my Imposter Syndrome, it's helped me practice, rehearse, and refine so I'm more confident in what I'm doing. 
 
