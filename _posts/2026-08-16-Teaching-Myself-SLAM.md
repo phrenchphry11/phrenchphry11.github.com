@@ -12,7 +12,7 @@ But let's back up.  What is SLAM, you may ask?  SLAM stands for Simultaneous Loc
 
 SLAM has a lot of subconcepts and components, so I thought it'd be great to have Claude Code try to break these down into a learning plan. To start, Claude needed to learn to use algorithms to compute feature extraction (wall edges, corners, etc).  After that, Claude needed to figure out visual odometry (calculating how much you moved based on visual identifiers).  Then it needed to do a lot of the hard parts of SLAM, mapping and optimization.
 
-In the end, Claude wrote fourteen lessons.  Spherical camera models, epipolar geometry, RANSAC, bundle adjustment, loop closure.  It wrote a theory lesson as well as test cases that needed to pass to advance to the next lesson. It ran worker copies of itself through the lessons in parallel while I studied. 
+In the end, Claude wrote fourteen lessons.  Spherical camera models, epipolar geometry, RANSAC, bundle adjustment, loop closure.  It wrote a theory lesson as well as test cases that needed to pass to advance to the next lesson. It ran worker copies of itself through the lessons in parallel while I studied.  The whole thing — all fourteen lessons, the tests, and the pipeline — is up on GitHub at [phrenchphry11/floorplan_slam](https://github.com/phrenchphry11/floorplan_slam) if you want to follow along (minus my office's floorplan and video, for obvious reasons).
 
 ## The tech stack and the harness
 
